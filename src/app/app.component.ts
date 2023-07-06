@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
   template: `<h1>Default</h1>`,
   styleUrls: ['./app.component.css'],
 })
+  
 export class AppComponent {
   title = 'default';
 }
